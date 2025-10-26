@@ -1,0 +1,2 @@
+# Intelecta_DataMining
+INTELECTA CUP - DATA MINING COMPETITION
